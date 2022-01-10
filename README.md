@@ -14,4 +14,4 @@
 |											Enjoy!										       |
 
 
-						> !THE LATEST RELEASE IS HERE IN THE MASTER BRANCH'S (THIS)PAGE! <
+				> !THE LATEST RELEASE IS HERE IN THE MASTER BRANCH'S (THIS)PAGE! <
