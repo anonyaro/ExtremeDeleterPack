@@ -7,11 +7,11 @@
 
 |					Btw there is no backup functions yet, but very soon it will appear,just wait a little bit!					       |
 
-|								     I hope you enjoy this ExtremeDeleterPack!							      	       |
+|									I hope you enjoy this ExtremeDeleterPack!							       |
 
 |				You can contact the developer, that is me actually, about questions and bugs, by the link> https://t.me/t3plc6x				       |
 
 |											Enjoy!										       |
 
-
-							> !THE LATEST RELEASE IS HERE IN THE MASTER BRANCH'S (THIS)PAGE! <
+							|That's the firstest release of ExtremeDeleterPack(contains a lot of bugs)|
+										|Released on 31.12.21|			
