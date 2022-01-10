@@ -14,4 +14,7 @@
 |											Enjoy!										       |
 
 
+<<<<<<< HEAD
 							> !THE LATEST RELEASE IS HERE IN THE MASTER BRANCH'S (THIS)PAGE! <
+=======
+>>>>>>> e998bd2b3d9c5a6f6e2a5f47e2e42698a0b6b72d
