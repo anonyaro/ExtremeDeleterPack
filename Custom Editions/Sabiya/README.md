@@ -14,4 +14,4 @@
 |											Enjoy!										       |
 
 
-							> !>Extreme Visual Deleter< Sabiya Edition! < 
+							> !>Extreme Visual Deleter< Sabiya Edition! <  
