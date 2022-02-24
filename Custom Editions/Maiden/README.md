@@ -14,4 +14,4 @@
 |											Enjoy!										       |
 
 
-				> !>Extreme Visual Deleter< Maiden Edition! <
+								> !>Extreme Visual Deleter< Maiden Edition! <
