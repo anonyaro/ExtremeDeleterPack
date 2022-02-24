@@ -14,4 +14,4 @@
 |											Enjoy!										       |
 
 
-							> !>Extreme Visual Deleter< WinOS Edition! < 
+							> !>Extreme Visual Deleter< WinOS Edition! <  
